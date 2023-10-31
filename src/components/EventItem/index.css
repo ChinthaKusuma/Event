@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.img1 {
+  height: 200px;
+  width: 200px;
+}
+.h11 {
+  color: white;
+}
+.para {
+  color: white;
+}
+.li1 {
+  list-style: none;
+  width: 20vw;
+}
+.btn1 {
+  background-color: transparent;
+  border: 0px;
+}
